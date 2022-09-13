@@ -11,5 +11,5 @@ The purpose of this file is to run different algorithms and comparisons in many 
 5. Javascript 
 
 ## Comparisons that I will attempt to implement 
-1. Sorting Algorithm
+1. Sorting Algorithm using data found from a free analytics site 
 2. Algorithm computing *n* digits of π
